@@ -1,0 +1,29 @@
+.contenedor-principal{
+    background-color: bisque;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 14px;
+}
+.encabezado{
+    background-color: blanchedalmond;
+    font-size: 22px;
+    padding: 20px;
+}
+.agregar-contacto{
+    display: flex;
+    
+}
+
+.fila{
+    flex-direction: row;
+}
+
+.columna{
+    flex-direction: column;
+}
+
+.boton-agregar{
+    padding: 10px;
+    height: 36px;
+    border-radius: 16px;
+    font-size: 15px;
+}

@@ -1,0 +1,40 @@
+<html>
+
+<head>
+    <title>
+        Agenda ITLA
+    </title>
+    <script src="./js/index.js"></script>
+    <link href="css/index.css" type="text/css" rel="stylesheet" />
+</head>
+
+<body onload="cargarContactos()">
+
+    <div class="contenedor-principal">
+        <div class="agregar-contacto">
+            <div class="fila">
+                <div class="columna">Nombre</div>
+                <div class="columna">
+                    <input type="text" id="txtNombre" />
+                </div>
+            </div>
+            <div class="fila">
+                <div class="columna">Apellido</div>
+                <div class="columna">
+                    <input type="text" id="txtApellido" />
+                </div>
+            </div>
+            <div class="fila">
+                <div class="columna">Telefono</div>
+                <div class="columna">
+                    <input type="text" id="txtTelefono" />
+                </div>
+            </div>
+            <div class="fila"><button class="boton-agregar" onclick="agregarContacto()">Agregar Contacto</button></div>
+        </div>
+        <div class="encabezado">Listado de Contactos</div>
+        <div id="divContactos" class="listado-contactos"></div>
+    </div>
+</body>
+
+</html>
