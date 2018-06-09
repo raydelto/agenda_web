@@ -5,4 +5,4 @@ Este sencillo proyecto es una agenda WEB escrita en javascript la cual consulta 
 Hemos hecho un video explicando el código fuente, el cual puede ser accedido mediante YouTube (https://www.youtube.com/watch?v=YI1R502ux3M)
 
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YI1R502ux3M/0.jpg)](https://www.youtube.com/watch?v=YI1R502ux3M)
+[![Explicando el código](https://img.youtube.com/vi/YI1R502ux3M/0.jpg)](https://www.youtube.com/watch?v=YI1R502ux3M)
